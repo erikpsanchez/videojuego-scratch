@@ -2,4 +2,5 @@
 
 - Hace falta un sprite
 
-Para poder abrir los archivos .svg y poder usarlos como objetos...
+Para poder usar los archivos .svg selecciona la opción **"Cargar objeto desde archivo"** (marcado con el recuadro rojo)
+![](Materiales/1.png)
