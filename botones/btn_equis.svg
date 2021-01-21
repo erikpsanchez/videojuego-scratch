@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="360"
+   viewBox="0 0 127 95.250003"
+   version="1.1"
+   id="svg1146"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="btn_equis.svg">
+  <defs
+     id="defs1140">
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect2084" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect1199" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0289025"
+     inkscape:cx="246.53084"
+     inkscape:cy="175.80994"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1224">
+      <ellipse
+         style="opacity:0.996;fill:#241f1c;fill-opacity:0.992157;stroke:#000000;stroke-width:2.82443;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1148"
+         cx="63.644878"
+         cy="48.344395"
+         rx="26.10083"
+         ry="24.172197" />
+      <text
+         xml:space="preserve"
+         id="text2082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2084);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         x="54.931641"
+         y="0"
+         transform="matrix(1.7199731,0,0,1.3325977,-788.92234,-666.65926)"><tspan
+           x="484.20737"
+           y="549.14231"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6">X</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480mm"
+   height="360mm"
+   viewBox="0 0 480 360.00001"
+   version="1.1"
+   id="svg213"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="btn_creditos.svg">
+  <defs
+     id="defs207">
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect2084" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect179" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect2084-8" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect182" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect2084-7" />
+    <rect
+       x="404.7211"
+       y="513.90845"
+       width="181.97891"
+       height="45.130772"
+       id="rect185" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33557348"
+     inkscape:cx="608.59813"
+     inkscape:cy="679.19893"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="mm"
+     width="480mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata210">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g275">
+      <rect
+         style="display:inline;opacity:0.996;fill:#241f1c;stroke:#000a00;stroke-width:8.05753;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2080"
+         width="222.52835"
+         height="57.432053"
+         x="138.8667"
+         y="128.59874" />
+      <text
+         xml:space="preserve"
+         id="text2082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2084);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         x="54.931641"
+         y="0"
+         transform="matrix(1.2228248,0,0,1.2725697,-354.84122,-526.21275)"><tspan
+           x="427.90663"
+           y="549.14231"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6">Créditos</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
